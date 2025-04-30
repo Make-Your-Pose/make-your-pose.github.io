@@ -5,36 +5,24 @@ members:
   - 강희룡
 ---
 
-<br>
-
 ## 👥 팀 구성
 
 - 팀장: 김지은
 - 팀원: 강희룡
 - 지도교수: 오경수
 - 이메일: [makeyourpose@gmail.com](mailto:makeyourpose@gmail.com)
-<br><br>
-  
 
 ## 🎮 작품 소개
 
-**AI 기반 실시간 포즈 매칭 게임**  
+**AI 기반 실시간 포즈 매칭 웹 게임**  
 사용자가 실시간으로 정답 포즈와 일치하도록 자신의 포즈를 맞추는 웹 기반 인터랙티브 게임입니다.
+<img src="MakeYourPose_1.jpg">
 
-- **주제**: AI와 함께하는 몰입형 신체 활동
-- **형식**: 웹 애플리케이션 (브라우저 기반)
+🔗 **작품 시연 링크**: [바로가기](https://make-your-pose.site/)
 
-🔗 **작품 시연 링크**: [바로가기](#)
-<br><br>
+## 📝 기획 의도
 
-
-## 🛠️ 주요 기술 스택
-
-- **Frontend**: React, Vite, Styled Components
-- **AI / Pose Recognition**: MediaPipe, TensorFlow.js
-- **Backend**: Firebase (Auth & Hosting)
-<br><br>
-
+Make Your Pose는 '새장 안에 갇힌 새'로 밈이 된 예능 <도전! 수퍼모델 코리아 3> 속 포즈 대결에서 영감을 받아, 'AI가 이 게임의 심판을 보면 어떨까?'라는 발상에서 시작되었다. 사용자는 직접 몸을 움직이면서 정답 포즈를 추리해야 하고, AI 라이브러리를 이용해 포즈의 유사도를 제공한다.
 
 ## ✨ 주요 기능
 
@@ -42,28 +30,19 @@ members:
 - 다양한 난이도와 문제 유형 제공
 - 포즈 유사도 시각화
 - 제스처 기반 UI 조작
-<br><br>
 
+## 📷 작품 설명 이미지
 
-## 📷 시연 이미지 / 영상
+<img src="MakeYourPose_2.jpg">
+<img src="MakeYourPose_3.jpg">
+<img src="MakeYourPose_4.jpg"> <br><br>
 
-> (여기에 이미지나 유튜브 영상 링크 넣기)  
-> 예:  
-> ![시연 이미지]
-<br><br>
+## 🛠️ 주요 기술 스택
 
-
-## 📝 개발 동기 및 기대 효과
-
-**게임을 통해 누구나 쉽게 즐길 수 있는 AI 체험을 제공하고자 했습니다.**
-
-- AI 기술을 놀이로 경험하게 함으로써 진입장벽을 낮춤
-- 포즈 게임을 통해 신체 활동을 자연스럽게 유도
-- 교육, 헬스케어 등 다양한 분야로의 확장 가능성
-<br><br>
-
+- **Frontend**: React, Vite, Panda CSS
+- **AI / Pose Recognition**: MediaPipe Pose
+- **Backend**: Cloudflare
 
 ## 📅 개발 기간
 
-2024.0? ~ 2025.05
-<br><br>
+2024.12 ~ 2025.05
